@@ -1,6 +1,11 @@
 # Introducao_spark
 Projeto de estudos iniciais com spark
 
+| :books: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Introdução ao Apache Spark**
+| :label: Tecnologias | python (Apache Spark)
+
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/spark.png#vitrinedev)
 
